@@ -2,4 +2,4 @@
 
 ## This repo is a collection of all my python programs and small projects I have worked on
 
-- [Tic Tac Toe game]()
+- [Tic Tac Toe game](https://github.com/a-abukar/python/tree/main/tictactoe-game)
