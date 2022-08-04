@@ -1,7 +1,6 @@
-from IPython.display import clear_output
 
 def display_board(board):
-    clear_output()  # Remember, this only works in jupyter!
+    # clear_output()  # Remember, this only works in jupyter!
     
     print(' ' + board[7] + ' | ' + board[8] + ' | ' + board[9])
     print('-----------')
@@ -93,7 +92,7 @@ while True:
 
             if win_check(theBoard, player1_marker):
                 display_board(theBoard)
-                print('Congratulations! You have won the game!')
+                print('Player 1 has won the game!')
                 game_on = False
             else:
                 if full_board_check(theBoard):
