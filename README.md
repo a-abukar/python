@@ -9,4 +9,4 @@
 
 ### Day 2 
 
-- [Tip Calculator script]()
+- [Tip Calculator script](https://github.com/a-abukar/python/blob/main/day-2/tip-calculator.py)
