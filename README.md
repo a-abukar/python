@@ -4,5 +4,9 @@
 
 ### Day 1
 
-- [Tic Tac Toe game](https://github.com/a-abukar/python/tree/main/day-1/tictactoe-game)
+- [Tic Tac Toe game script](https://github.com/a-abukar/python/tree/main/day-1/tictactoe-game)
 - [Labs](https://github.com/a-abukar/python/tree/main/day-1/labs)
+
+### Day 2 
+
+- [Tip Calculator script]()
